@@ -11,6 +11,9 @@ f.close()
 
 flags = """
 <string>-I</string>
+<string>{platform}\\Developer\\SDKs\\Windows.sdk\\usr\\include</string>
+
+<string>-I</string>
 <string>{platform}\\Developer\\SDKs\\Windows.sdk\\usr\\lib\\swift</string>
 
 <string>-I</string>
